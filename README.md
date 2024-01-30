@@ -1,4 +1,5 @@
 # Solo Project: Hometown Homepage
+This solo project is a part of [The Frontend Developer Career Path](https://scrimba.com/learn/frontend).  
 
 ## Requirements
 - Build from "scratch"
